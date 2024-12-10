@@ -37,7 +37,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Sou apaixonada por desenvolvimento web e tecnologia, começando meus estudos no Instituto Muaá de Tecnologia em 2024 aos 18 anos!
+- 💻 Sou apaixonada por desenvolvimento web e tecnologia, começando meus estudos no Instituto Mauá de Tecnologia em 2024 aos 18 anos!
 - 📚 Sempre procuro testar meus conhecimentos com projetos práticos.
 - ✨ Tenho um aprendizado rápido e muito interesse em me aprimorar cada vez mais.
 
