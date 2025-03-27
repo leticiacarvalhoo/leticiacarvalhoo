@@ -1,8 +1,22 @@
 ## Oii! Eu sou a Letícia de Carvalho 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacarvalhoo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=leticiacarvalhoo&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <div align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacarvalhoo&layout=compact&langs_count=7&theme=dark"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ### 🛠️ Liguagens e ferramentas aprendidas:
 <div style="display: inline_block"><br> 
