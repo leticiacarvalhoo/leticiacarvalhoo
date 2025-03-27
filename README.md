@@ -50,7 +50,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Sou apaixonada por desenvolvimento web e tecnologia, começando meus estudos no Instituto Mauá de Tecnologia em 2024 aos 18 anos!
-- 📚 Sempre procuro testar meus conhecimentos com projetos práticos.
-- ✨ Tenho um aprendizado rápido e muito interesse em me aprimorar cada vez mais.
+- 💻 Sou apaixonada por desenvolvimento e tecnologia, iniciando meus estudos no Instituto Mauá de Tecnologia em 2024, aos 18 anos!
+- 📚 Sempre busco testar meus conhecimentos por meio de projetos práticos, aplicando na criação de soluções reais.
+- ✨ Tenho um aprendizado rápido e estou sempre em busca de aprimoramento. Atualmente, faço parte da Mauá Junior, a empresa júnior da faculdade, onde coordeno e gerencio projetos na área de tecnologia e design, incluindo desenvolvimento de sites em WordPress e identidade visual para clientes.
 
