@@ -1,4 +1,4 @@
-## Oii! Eu sou a Letícia de Carvalho 👋
+## Oii! Eu sou a Letícia de Carvalho <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">
 
 <table>
   <tr>
@@ -26,6 +26,7 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"            alt="Bootstrap"/> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
 </div>
 
 ---
@@ -50,7 +51,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Sou apaixonada por desenvolvimento e tecnologia, iniciando meus estudos no Instituto Mauá de Tecnologia em 2024, aos 18 anos!
-- 📚 Sempre busco testar meus conhecimentos por meio de projetos práticos, aplicando na criação de soluções reais.
-- ✨ Tenho um aprendizado rápido e estou sempre em busca de aprimoramento. Atualmente, faço parte da Mauá Junior, a empresa júnior da faculdade, onde coordeno e gerencio projetos na área de tecnologia e design, incluindo desenvolvimento de sites em WordPress e identidade visual para clientes.
+- Sou apaixonada por desenvolvimento e tecnologia, iniciando meus estudos no Instituto Mauá de Tecnologia em 2024, aos 18 anos!
+- Sempre busco testar meus conhecimentos por meio de projetos práticos, aplicando na criação de soluções reais.
+- Tenho um aprendizado rápido e estou sempre em busca de aprimoramento. Atualmente, faço parte da Mauá Junior, a empresa júnior da faculdade, onde coordeno e gerencio projetos na área de tecnologia e design, incluindo desenvolvimento de sites em WordPress e identidade visual para clientes.
 
