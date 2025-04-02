@@ -1,4 +1,4 @@
-## Oii! Eu sou a Letícia de Carvalho <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">
+## Hey there! I'm Letícia de Carvalho <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40">
 
 <table>
   <tr>
@@ -18,7 +18,7 @@
 </table>
 
 
-### 🛠️ Liguagens e ferramentas aprendidas:
+### 🛠️ Languages and Tools Learned:
 <div style="display: inline_block"><br> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🌍 Conecte-se comigo
+### 😊 Connect with me! 
 
 <div> 
   <a href="https://www.linkedin.com/in/let%C3%ADcia-de-carvalho-silva/" target="_blank">
@@ -50,8 +50,8 @@
 
 ---
 
-### 🚀 Sobre mim
-- Sou apaixonada por desenvolvimento e tecnologia, iniciando meus estudos no Instituto Mauá de Tecnologia em 2024, aos 18 anos!
-- Sempre busco testar meus conhecimentos por meio de projetos práticos, aplicando na criação de soluções reais.
-- Tenho um aprendizado rápido e estou sempre em busca de aprimoramento. Atualmente, faço parte da Mauá Junior, a empresa júnior da faculdade, onde coordeno e gerencio projetos na área de tecnologia e design, incluindo desenvolvimento de sites em WordPress e identidade visual para clientes.
+### 🚀 About me
+- I'm passionate about development and technology, having started my studies at Instituto Mauá de Tecnologia in 2024 at the age of 18!  
+- I always seek to test my knowledge through practical projects, applying it to the creation of real solutions.  
+- I learn quickly and am always looking for improvement. Currently, I am part of Mauá Junior, the university's junior enterprise, where I coordinate and manage projects in the areas of technology and design, including website development in WordPress and visual identity for clients.
 
