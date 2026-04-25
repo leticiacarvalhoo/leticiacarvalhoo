@@ -16,10 +16,10 @@
 
 ## ⚡ What I Bring  
 
-- 💡 Strong mix of **development + design mindset**  
-- 🚀 Experience building real projects (not just tutorials)  
-- 🧠 Fast learner, highly adaptable  
-- 🌍 International experience  
+- Strong mix of **development + design mindset**  
+- Experience building real projects (not just tutorials)  
+- Fast learner, highly adaptable  
+- International experience  
 
 ---
 
