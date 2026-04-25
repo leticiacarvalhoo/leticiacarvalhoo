@@ -43,9 +43,10 @@
 ## 📌 Featured Projects  
 
 ### 🔹 Metro SP Platform  
-- Authentication with Microsoft  
-- Team & training management  
-- React + MongoDB  
+- Material & instrument management system for metro maintenance operations
+- Flutter + Node.js + MongoDB
+- Real-time inventory and asset traceability
+- Role-based access and operational control
 
 ### 🔹 Mauá e-Sports Platform  
 - Authentication with Microsoft  
